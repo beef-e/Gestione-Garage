@@ -1,3 +1,10 @@
+/**
+*
+* La classe Automobile estende la classe Veicolo, contiene gli attributi fondamentali caratteristici delle automobili e
+* non applicabili alle altre categorie di veicoli.
+* @author Giammaria Biffi
+* @version 1
+* */
 public class Automobile extends Veicolo {
 	private int numeroPorte;
 

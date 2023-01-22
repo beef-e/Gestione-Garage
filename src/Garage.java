@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * La classe Garage definisce tutti gli attributi del nostro garage e ci permette di modificarli, andando a cambiare
+ * il numero di posti liberi o occupati al suo interno
+ * @author Giammaria Biffi
+ * @version 0.5*/
 public class Garage {
 	private final int POSTI_AUTO = 15;
 	private final int POSTI_MOTO = 10;

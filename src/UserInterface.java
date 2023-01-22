@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+* La classe UserInterface definisce l'interfaccia utente del programma, rendendo possibile all'utente interagire con
+ * esso.
+ * @author Giammaria Biffi
+ * @version 0.5
+ * */
 public class UserInterface {
 	private Garage garage;
 	private Scanner scanner;
@@ -46,7 +52,7 @@ public class UserInterface {
 
 	private void farUscireVeicolo() {
 		System.out.println("Inserisci la targa del veicolo da far uscire:");
-
+		//come faccio a dire "Per ogni veicolo presente nella lista posti occupati?"
 	}
 
 	private void farEntrareVeicolo(){}
